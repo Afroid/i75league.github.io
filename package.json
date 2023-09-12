@@ -1,7 +1,7 @@
 {
   "name": "i75league",
   "version": "0.1.0",
-  "homepage": "http://i75league.com",
+  "homepage": "https://afroid.github.io/i75league",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
