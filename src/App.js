@@ -16,11 +16,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://fantasy.espn.com/football/league/scoreboard?leagueId=849836"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I75 League Scoreboard
         </a>
       </header>
     </div>
