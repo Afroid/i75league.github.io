@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import pioli from './Pioli.png';
 
 import './App.css';
 
@@ -6,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={pioli} className="App-logo" alt="logo" />
         <p>
          09/13/2023 Recap
         </p>
