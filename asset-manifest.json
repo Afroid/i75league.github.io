@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/i75league/static/css/main.073c9b0a.css",
-    "main.js": "/i75league/static/js/main.ee6a4d20.js",
+    "main.js": "/i75league/static/js/main.9b321a15.js",
     "static/js/787.e089204e.chunk.js": "/i75league/static/js/787.e089204e.chunk.js",
-    "static/media/Pioli.png": "/i75league/static/media/Pioli.4c338962747e30622105.png",
+    "static/media/Pioli.png": "/i75league/static/media/Pioli.e49151ea960bfe37458b.png",
     "index.html": "/i75league/index.html",
     "main.073c9b0a.css.map": "/i75league/static/css/main.073c9b0a.css.map",
-    "main.ee6a4d20.js.map": "/i75league/static/js/main.ee6a4d20.js.map",
+    "main.9b321a15.js.map": "/i75league/static/js/main.9b321a15.js.map",
     "787.e089204e.chunk.js.map": "/i75league/static/js/787.e089204e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ee6a4d20.js"
+    "static/js/main.9b321a15.js"
   ]
 }
