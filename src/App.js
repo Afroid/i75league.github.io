@@ -19,7 +19,7 @@ function App() {
          10/03/2023 Recap
         </p>
         <p>
-         This is where the recap goes.
+         This is where the recap goes, hopefully.
         </p>
         <a
           className="App-link"
