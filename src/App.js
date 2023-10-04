@@ -16,7 +16,7 @@ function App() {
       <header className="App-header">
         <img src={pioli} className="App-logo" alt="logo" />
         <p>
-         09/13/2023 Recap
+         10/03/2023 Recap
         </p>
         <p>
          This is where the recap goes.
