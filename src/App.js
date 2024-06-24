@@ -16,18 +16,15 @@ function App() {
       <header className="App-header">
         <img src={pioli} className="App-logo" alt="logo" />
         <p>
-         10/03/2023 Recap
-        </p>
-        <p>
-         This is where the recap goes, hopefully.
+         Coming soon...
         </p>
         <a
           className="App-link"
-          href="https://fantasy.espn.com/football/league/scoreboard?leagueId=849836"
+          href="https://fantasy.espn.com/football/league?leagueId=849836"
           target="_blank"
           rel="noopener noreferrer"
         >
-          I75 League Scoreboard
+          I75 League
         </a>
       </header>
       <Routes>
